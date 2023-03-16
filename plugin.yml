@@ -1,7 +1,7 @@
-name: CoinAPIScore
-main: Ifera\coinapi\Main
+name: PointAPIScore
+main: Ifera\pointapi\Main
 api: 4.0.0
 version: 1.1.0
 author: Ifera, ClickedTran
 description: A plugin implementing some basic tags for ScoreHud.
-depend: [ScoreHud, CoinAPI]
+depend: [ScoreHud, PointAPI]
